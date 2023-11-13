@@ -2,11 +2,11 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-.facebook.com	TRUE	/	TRUE	1734424375	sb	OKU6Zdej6CPloaAhtwqKa7PZ
-.facebook.com	TRUE	/	TRUE	1732902206	datr	OKU6ZWWbLf9RErOsPxY0ltRy
-.facebook.com	TRUE	/	TRUE	1700469213	wd	1280x563
-.facebook.com	TRUE	/	TRUE	1700469175	locale	vi_VN
-.facebook.com	TRUE	/	TRUE	1731401162	c_user	61553671792906
-.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1699864416860%2C%22v%22%3A1%7D
-.facebook.com	TRUE	/	TRUE	1731401162	xs	21%3A9CT7POJCgur29g%3A2%3A1699864326%3A-1%3A-1%3A%3AAcVWYTQdKG-bXes11wEPnpPV8wECqCWNccWADOlH5A
-.facebook.com	TRUE	/	TRUE	1707641162	fr	1Fx7PKyjkEEnpWhtV.AWVEZ97kb5nbU4SlYX7bQutNpDw.BlUeIa.a9.AAA.0.0.BlUeIa.AWXven-HAKI
+.facebook.com	TRUE	/	TRUE	1734439762	sb	7U2sY_jwmTvjY471NMKwU8ET
+.facebook.com	TRUE	/	TRUE	1706796528	datr	7U2sY7wZWUokgvpe-g0gF0C9
+.facebook.com	TRUE	/	TRUE	1700484652	wd	1920x931
+.facebook.com	TRUE	/	TRUE	1700484562	locale	vi_VN
+.facebook.com	TRUE	/	TRUE	1731415762	c_user	61553488620752
+.facebook.com	TRUE	/	TRUE	1731415762	xs	18%3AQmNucb_VSkQpcQ%3A2%3A1699879760%3A-1%3A-1
+.facebook.com	TRUE	/	TRUE	1707655851	fr	1SU8PTc0L4S05j2Wv.AWWU9ZUITVJr5wnlbzbkDCl2zco.BlUhjt.Ue.AAA.0.0.BlUhup.AWVTpGVLQN0
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1699879855305%2C%22v%22%3A1%7D
